@@ -12,6 +12,7 @@ O objetivo deste repositório é centralizar as análises críticas de artigos a
 |-------|------|----------------------|
 | [microsservicos](microsservicos/) | Arquitetura de Microsserviços | *"Microservices: A Definition of This New Architectural Term"* — Martin Fowler e James Lewis |
 | [modularizacao](modularizacao/) | Modularização de sistemas | *"On the Criteria To Be Used in Decomposing Systems into Modules"* — David L. Parnas |
+| [arquitetura-software](arquitetura-software/) | Arquitetura de Software | *"Software Architecture: a Roadmap"* — David Garlan |
 
 ## 👨‍💻 Autor
 
