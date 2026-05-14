@@ -13,7 +13,9 @@ O objetivo deste repositório é centralizar as análises críticas de artigos a
 | [microsservicos](microsservicos/) | Arquitetura de Microsserviços | *"Microservices: A Definition of This New Architectural Term"* — Martin Fowler e James Lewis |
 | [modularizacao](modularizacao/) | Modularização de sistemas | *"On the Criteria To Be Used in Decomposing Systems into Modules"* — David L. Parnas |
 | [arquitetura-software](arquitetura-software/) | Arquitetura de Software | *"Software Architecture: a Roadmap"* — David Garlan |
+| [arquitetura-hexagonal](arquitetura-hexagonal/) | Arquitetura Hexagonal (Ports and Adapters) | *"Hexagonal Architecture"* — Alistair Cockburn |
 | [modelagem-uml](modelagem-uml/) | Modelagem UML com OCL | *"Object Constraint Language (OCL): a Definitive Guide"* — Jordi Cabot e Martin Gogolla |
+| [design-by-contract](design-by-contract/) | Design by Contract | *"Design by Contract"* — Bertrand Meyer |
 
 ## 👨‍💻 Autor
 
